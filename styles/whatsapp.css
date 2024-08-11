@@ -1,0 +1,19 @@
+.div1{
+    display: grid;
+    height: 877px;
+    grid-template-columns: 1fr 3.2fr;
+}
+
+.side2{
+    background-color: rgb(216, 126, 7);
+}
+.side1{
+    background-color: aquamarine;
+}
+
+body{
+    margin-top: 30px;
+    background-color: black;
+    padding-left: 70px;
+    padding-right: 70px;
+}

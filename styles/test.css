@@ -1,0 +1,40 @@
+body{
+    background-color: aliceblue;
+    padding-left: 100px;
+    padding-top: 75px;
+}
+
+.whole-container{
+    background-color: rgb(209, 202, 202);
+    width: 400px;
+    height: 400px;
+    padding-top: 10px;
+    padding-left: 10px;
+    position: fixed;
+}
+.pic-div{
+    position: relative;
+    width: 300px;
+    height: 300px;
+    background-color: aliceblue;
+}
+.product{
+    object-fit: contain;
+    width: 300px;
+    height: 300px;
+}
+.div{
+    background-color: black;
+    color: white;
+    position: absolute;
+    top: 0px;
+    right: 0px;
+}
+.down{
+    position: absolute;
+    bottom: 0px;
+    right: 0px;
+    left: 0px;
+    height: 90px;
+    background-color: rgba(231, 225, 225, 0.7);
+}
